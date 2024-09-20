@@ -45,4 +45,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/shamithakiran01/LEETCODEDAILY/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/shamithakiran01/LEETCODEDAILY/tree/master/0225-implement-stack-using-queues) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/shamithakiran01/LEETCODEDAILY/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/shamithakiran01/LEETCODEDAILY/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
